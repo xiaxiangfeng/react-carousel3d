@@ -1,6 +1,6 @@
 # react-carousel3d
 
-> A 3D perspective carousel。预览地址：http://xiaxiangfeng.github.io/flip-clock/index.html
+> A 3D perspective carousel。预览地址：https://xiaxiangfeng.github.io/react-carousel3d/#/carousel
 
 ## 从 NPM 下载包
 
