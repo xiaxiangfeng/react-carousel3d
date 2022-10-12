@@ -64,9 +64,7 @@ function floatIndex(itemCount, rotation) {
   var floatIndex = itemsRotated(itemCount, rotation) % count; // Make sure float-index is positive
 
   return floatIndex < 0 ? floatIndex + count : floatIndex;
-} //
-// Spin the carousel.  Count is the number (+-) of carousel items to rotate
-//
+} // Spin the carousel.  Count is the number (+-) of carousel items to rotate
 
 
 function go(count, destRotation, itemCount) {

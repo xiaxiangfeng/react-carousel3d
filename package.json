@@ -1,7 +1,23 @@
 {
-  "private": true,
-  "name": "react-carousel3d",
+  "private": false,
+  "name": "react-carousel3",
   "version": "1.0.0",
+  "description": "react 3d 轮播",
+  "author": "xiaxiangfeng",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaxiangfeng/react-carousel3d"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "components",
+    "react-carousel3d",
+    "carousel3d",
+    "carousel"
+  ],
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",

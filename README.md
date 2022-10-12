@@ -7,7 +7,7 @@
 ## 从 NPM 下载包
 
 ```npm
-npm i react-carousel3d
+npm i react-carousel3
 ```
 
 ## Basic usage
