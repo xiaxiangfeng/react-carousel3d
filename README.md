@@ -2,6 +2,8 @@
 
 > A 3D perspective carousel。预览地址：https://xiaxiangfeng.github.io/react-carousel3d/#/carousel
 
+![Image text](https://xiaxiangfeng.github.io/react-carousel3d/image/Animation.gif)
+
 ## 从 NPM 下载包
 
 ```npm
