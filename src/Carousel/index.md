@@ -4,7 +4,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Carousel } from 'react-carousel3d';
+import { Carousel } from 'react-carousel3';
 
 const style = {
   width: 297,
